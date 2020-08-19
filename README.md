@@ -1,11 +1,3 @@
 # hello-world
-simple demo
-
-
-#include <stdio.h>
-
-int main()
-{
-  printf("hello world\n");
-  return 0;
-}
+### AC695N_soundbox_sdk_release_0.0.6
+### ac696n_soundbox_sdk_v0.2.5
